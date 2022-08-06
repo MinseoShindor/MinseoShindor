@@ -1,4 +1,6 @@
 ### Hi there 👋
+🏫 Duksung Women University (DSWU) SoftWare / Computer Engineering
+
 
 <!--
 **MinseoShindor/MinseoShindor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
