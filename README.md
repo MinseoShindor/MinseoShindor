@@ -1,10 +1,14 @@
 
 🏫 Duksung Women University (DSWU) SoftWare / Computer Engineering
 
+## History
 <br>
 2022.03-2022.06 Worked at SmartMoneySystem 💻 as a developer, sub designer (Vue.js - Node.js / Figma - Zeplin)
 <br>
+<br>
+
 2022.03-2022.08 Joined UMC NDEV 2th DSWU 💻 as a developer (Android)
+<br>
 <br>
 2022.08-Now➰ Joined KUSITMS 26th 💻 as a developer 
 <br>
