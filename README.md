@@ -28,4 +28,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoShindor&layout=compact)](https://github.com/MinseoShindor/github-readme-stats)
+<p align="center">
+  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoShindor&layout=compact)](https://github.com/MinseoShindor/github-readme-stats)
+  [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=깃허브아이디)](https://github.com/MinseoShindor/github-readme-stats)
+  
+  </p>
+
