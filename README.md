@@ -1,7 +1,7 @@
 
 <div align="center">
   
-  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer)
+  ![Footer](https://capsule-render.vercel.app/api?type=waving&color=auto&height=200&section=footer&text=Shin%20Min%20%20Seo%20)
   
 🏫 Duksung Women University (DSWU) SoftWare / Computer Engineering
 
