@@ -61,13 +61,11 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align="center">
-<div align="left">
-
 ## Skills
+<div align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MinseoShindor&layout=compact)](https://github.com/MinseoShindor/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MinseoShindor)](https://github.com/MinseoShindor/github-readme-stats)
 </div>
-  </div>
+
 
