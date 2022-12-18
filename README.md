@@ -16,6 +16,7 @@
 <br>
 2022.08-2022.11➰ Joined KUSITMS 26th<br> 💻 as a developer 
 <br>
+<br>
 2022.12-now➰ Joined Nexters 22nd<br> 💻 as a developer  (Android)
   
 ### Tech Stack 🛠️
