@@ -14,8 +14,9 @@
 2022.03-2022.08 Joined UMC NDEV 2th DSWU<br> 💻 as a developer (Android)
 <br>
 <br>
-2022.08-Now➰ Joined KUSITMS 26th<br> 💻 as a developer 
+2022.08-2022.11➰ Joined KUSITMS 26th<br> 💻 as a developer 
 <br>
+2022.12-now➰ Joined Nexters 22nd<br> 💻 as a developer  (Android)
   
 ### Tech Stack 🛠️
 <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=Kotlin&logoColor=white"/> 
