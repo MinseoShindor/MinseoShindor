@@ -46,8 +46,9 @@
 
 </div>
 
+<div>
 ![](https://github.com/MinseoShindor/MinseoShindor/blob/output/github-user-contribution.svg)
-
+</div>
 
 <!--
 **MinseoShindor/MinseoShindor** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
